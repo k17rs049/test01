@@ -9,3 +9,4 @@ Hello GitHub
 
 # third section
 
+- ITEM3
